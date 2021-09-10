@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://khs20137.github.io/
-  - title: "Category"
-    url: https://khs20137.github.io/categories/   
+    url: https://khs20137.github.io/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
