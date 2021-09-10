@@ -1,7 +1,7 @@
 ```python
 ---
 layout: post
-title:  "python basic1"
+title:  "python_basic_01"
 ---
 
 
