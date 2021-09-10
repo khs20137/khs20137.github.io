@@ -1,9 +1,4 @@
 ```python
----
-layout: post
-title:  "python basic1"
----
-
 
 # "hello, python!" 을 3번 출력하는 코드를 만드세요(3 가지)
 print('"hello, pytho!"' * 3)
