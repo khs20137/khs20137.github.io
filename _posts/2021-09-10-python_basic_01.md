@@ -1,5 +1,4 @@
 ```python
-
 # "hello, python!" 을 3번 출력하는 코드를 만드세요(3 가지)
 print('"hello, pytho!"' * 3)
 print('"hello, pytho!"' '"hello, pytho!"' '"hello, pytho!"')
